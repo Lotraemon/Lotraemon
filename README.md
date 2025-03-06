@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  />
+  <img height="300" width="500" src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Я трудолюбивый тестировщик и ищу компанию, в которой буду расти до сильного QA специалиста. Начинал работать в Яндекс, где в основном занимался регрессионным тестированием Web,Mobile & Desktop продкутов компании. Затем в Web-студии: Составление и поддержка тестовой документации. Функиональное тестирование. API тесты. Писал SQL запросы. После этого был перерыв на проекты вне IT, попутно подучил Java. В 2025 завершил курсы по автоматизации тестирования.  Опыт ручного тестирования около полугода. Опыт автоматизации на Java в рамках курсов. (Selenium, Rest Assured, Junit 5, Allure Report).<br><br>- 🔭 Опыт ручного тестирования полгода.<br>- 📚 Функциональное тестирование; Тестирование API; Работа с БД; Ведение тестовой документации.<br>- ⚡ Опыт написания автотестов на Java</p>
+<p align="left">Я трудолюбивый тестировщик и ищу компанию, в которой буду расти до сильного QA специалиста. Начинал работать в Яндекс, где в основном занимался регрессионным тестированием Web,Mobile & Desktop продкутов компании. Затем в Web-студии: Составление и поддержка тестовой документации. Функиональное тестирование. API тесты. Писал SQL запросы. После этого был перерыв на проекты вне IT, попутно подучил Java. В 2025 завершил курсы по автоматизации тестирования. Сейчас нахожусь в поиске работы тестировщиком.  Опыт ручного тестирования около полугода. Опыт автоматизации на Java в рамках курсов. (Selenium, Rest Assured, Junit 5, Allure Report).<br><br>- 🔭 Опыт ручного тестирования полгода.<br>- 📚 Функциональное тестирование; Тестирование API; Работа с БД; Ведение тестовой документации.<br>- ⚡ Опыт написания автотестов на Java</p>
 
 ###
 <h3 align="left">📕 Примеры:</h3>
@@ -40,29 +40,30 @@
 ###
 
 <div align="left">
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Java.svg" height="40" alt="Java logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Java.svg" height="60" alt="Java logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Selenium.svg" height="40" alt="Selenium logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Selenium.svg" height="60" alt="Selenium logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Junit.svg" height="40" alt="Junit logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Junit.svg" height="60" alt="Junit logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/TestNg.svg" height="40" alt="Test NG logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/TestNg.svg" height="60" alt="Test NG logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Maven.svg" height="40" alt="Maven logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Maven.svg" height="60" alt="Maven logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Jira.svg" height="40" alt="Jira logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Jira.svg" height="60" alt="Jira logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Postman.svg" height="40" alt="Postman logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Postman.svg" height="60" alt="Postman logo"  />
   <img width="12" />
-  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Github.svg" height="40" alt="Github logo"  />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Github.svg" height="60" alt="Github logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/37912316/38108076-0b5f8ae0-3394-11e8-8e6c-60247537dfad.png" height="40" alt="SoapUI logo"  />
+  <img src="https://user-images.githubusercontent.com/37912316/38108076-0b5f8ae0-3394-11e8-8e6c-60247537dfad.png" height="50" alt="SoapUI logo"  />
+  <img width="12" />
 </div>
 
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ Буду рад познакомиться
 </p>
 
 ###
