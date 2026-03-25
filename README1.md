@@ -28,8 +28,9 @@
 ###
 <h3 align="left">📕 Примеры:</h3>
 
+- [REST заглушка смежной системы](https://github.com/Lotraemon/TestStub)
 - [Баг-репорты в Excel для тестового сайта](https://docs.google.com/spreadsheets/d/1-xCCz_-PtysJxv3bJdytuv6W14aG_i2qMeODQW3lfIU/edit?gid=400263301#gid=400263301)
-- [Примеры автотестов для сайта МТС](https://github.com/Lotraemon/astonTestTwo/tree/MTS_Test)
+- [UI автотесты для сайта МТС](https://github.com/Lotraemon/astonTestTwo/tree/MTS_Test)
 - [API автотесты для postman-echo.com](https://github.com/Lotraemon/astonTestTwo/tree/Echo_Test)
 
 
