@@ -1,8 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="300" src="https://media.istockphoto.com/id/1409661663/vector/computer-bug-icon-with-circuit.jpg?s=612x612&w=0&k=20&c=MOCdcUXHEI9jHV5qKWVZNGre97ofZRr5qGLugpcT6yQ="  />
-</div>
 
 ###
 
