@@ -61,7 +61,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Java.svg" height="60" alt="Java logo"  />
   <img width="12" />
   <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Selenium.svg" height="60" alt="Selenium logo"  />
