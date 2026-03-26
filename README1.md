@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="500" src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  />
+  <img height="300" width="300" src="https://media.istockphoto.com/id/1409661663/vector/computer-bug-icon-with-circuit.jpg?s=612x612&w=0&k=20&c=MOCdcUXHEI9jHV5qKWVZNGre97ofZRr5qGLugpcT6yQ="  />
 </div>
 
 ###
@@ -17,13 +17,34 @@
 </div>
 
 
-###
-
-<h3 align="left">👩‍💻  Обо мне:</h3>
 
 ###
 
-<p align="left"> Опыт автоматизации на Java в рамках курсов. (Selenium, Rest Assured, Junit 5, Allure Report).<br><br>- 🔭 Опыт ручного тестирования.<br>- 📚 Функциональное тестирование; Тестирование API; Работа с БД; Ведение тестовой документации.<br>- ⚡ Опыт написания автотестов на Java.</p>
+<h3 align="left">👩‍💻 Обо мне:</h3>
+
+<p align="left">
+  Мой путь в IT начался с позиции младшего специалиста по тестированию в <strong>Яндексе</strong>, где я занимался регрессионным тестированием Web, Mobile и Desktop продуктов. 
+  <br><br>
+  Затем работал в <strong>Web-студии</strong>: Составление и поддержка тестовой документации; Функциональное и API тестирование.
+</p>
+
+<p align="left">
+  Далее был перерыв в тестировании, работал в компаниях-подрячиках Google (проекты Appen, Lionbridge), выполняя задачи по Аудиту качества поисковой выдачи (SERP), оценке алгоритмов ранжирования и классификации контента;
+
+  Хотя этот опыт не был связан с тестированием, он значительно прокачал навыки <strong>анализа данных, внимательность к деталям и понимание пользовательского опыта</strong>. 
+  <br><br>
+  В этот период я самостоятельно углублял знания <strong>Java</strong>, а затем прошел курсы по автоматизации тестирования (Selenium, Rest Assured, JUnit 5, Allure) и школу нагрузочного тестирования. 
+</p>
+  В компании <strong>Bell Integrator</strong> я работал инженером по нагрузочному тестированию: начинал с внутренних проектов, а затем присоединился к проекту <strong>Сбера</strong>.
+</p>
+
+<h4 align="left">Мой стек и зоны ответственности:</h4>
+
+<ul align="left">
+  <li>📚 <strong>Функциональное тестирование:</strong> WEB, API, работа с БД, ведение тестовой документации.</li>
+  <li>🔭 <strong>Нагрузочное тестирование:</strong> полный цикл НТ, написание скриптов и заглушек, разработка методик (МНТ) и профилей нагрузки.</li>
+  <li>⚡ <strong>Автоматизация:</strong> опыт написания автотестов на Java.</li>
+</ul>
 
 ###
 <h3 align="left">📕 Примеры:</h3>
@@ -56,6 +77,18 @@
   <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Postman.svg" height="60" alt="Postman logo"  />
   <img width="12" />
   <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Github.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Jenkins.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Kubernetes.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Docker.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/CI-CD.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Jmeter.svg" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://www.narolainfotech.com/wp-content/uploads/technology_stack/Swagger.svg" height="60" alt="Github logo"  />
   <img width="12" />
 </div>
 
